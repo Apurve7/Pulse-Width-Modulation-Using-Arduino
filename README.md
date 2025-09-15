@@ -22,10 +22,12 @@ Breadboard
 
 Jumper Wires
 
-Software Requirements 💻
+Software Requirements 
+
 Arduino IDE
 
-Circuit and Connections 🔌
+Circuit and Connections 
+
 You must connect the LED to a PWM pin on the Arduino, indicated by a tilde symbol (~). The code specifies pin 9.
 
 Connect the long leg (anode) of the LED to one end of the 220Ω resistor.
@@ -35,6 +37,7 @@ Connect the other end of the resistor to Arduino Pin 9.
 Connect the short leg (cathode) of the LED to the Arduino GND pin.
 
 How to Use 
+
 Assemble the circuit as described above.
 
 Connect your Arduino to your computer via USB.
